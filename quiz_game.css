@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(185, 185, 255);
+}
+button{
+    background-color: aquamarine;
+}
+.login_div1,.login_div2{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
